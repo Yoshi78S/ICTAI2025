@@ -1,1 +1,1 @@
-# ICTAI2025
+# MMGSL: MultiModal Graph Structure Learning for Recommendation
